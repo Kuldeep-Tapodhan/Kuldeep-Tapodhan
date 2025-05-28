@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Deep learning & DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact me : kuldeep.tapodhan0306@gmail.com
+- 📫LinkedIn:https://www.linkedin.com/in/kuldeep-tapodhan-780701251/
 - ⚡ Fun fact: Not good in remaimbering  names of people i just met....
 
 <!---
