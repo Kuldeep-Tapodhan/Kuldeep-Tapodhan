@@ -43,9 +43,9 @@ I'm a tech enthusiast on a relentless journey to master the art of intelligent s
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&logo=css3&logoColor=white&style=for-the-badge" />
   <br>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=tensorflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=pytorch&logoColor=white&style=for-the-badge" />
+<!--   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=pytorch&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&logo=node.js&logoColor=white&style=for-the-badge" /> -->
   <br>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&logo=github&logoColor=white&style=for-the-badge" />
