@@ -1,8 +1,12 @@
-# 👋 Hello, I'm Kuldeep Tapodhan
+<h1 align="left">👋 Hey there, I’m <span style="color:#4CAF50;">Kuldeep Tapodhan</span></h1>
 
-
-
-*A curious coder, creative problem-solver, and passionate builder at the crossroads of machine intelligence and the web.*
+<p align="left">
+  <em>
+    💡 A curious coder with a knack for turning <b>coffee ☕ into code</b>,  
+    <b>ideas 💭 into reality</b>, and <b>challenges 🚀 into creative solutions</b> 
+    building at the intersection of <b>machine intelligence</b> and the <b>web 🌐</b>.
+  </em>
+</p>
 
 
 <div align="center" style="margin-top: 25px;">
@@ -12,7 +16,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-%2300C7B7.svg?&style=for-the-badge&logo=pytorch&logoColor=fff" />
   <img src="https://img.shields.io/badge/Web%20Development-%233399FF.svg?&style=for-the-badge&logo=react&logoColor=fff" />
   <img src="https://img.shields.io/badge/Deep%20Learning-%23E34F26.svg?&style=for-the-badge&logo=tensorflow&logoColor=fff" />
-  <img src="https://img.io/badge/DSA-%23FFD700.svg?&style=for-the-badge&logo=github&logoColor=fff" />
+ <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-%23FFD700.svg?&style=for-the-badge" />
 </div>
 
 ---
