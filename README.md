@@ -35,8 +35,8 @@
 
 <br>
 
-<p align="center">
-  > ⚡ **Fun Fact:** I remember code like poetry—but names? Let’s just say I need a few extra repetitions. 😄
+<p align="left">
+  ⚡ **Fun Fact:** I remember code like poetry—but names? Let’s just say I need a few extra repetitions. 😄
 </p>
 
 ---
