@@ -29,7 +29,6 @@
 
 - 🎯 **Currently focused on:**
   - Advancing in **Deep Learning** with TensorFlow & PyTorch
-  - Solving complex problems using **Data Structures & Algorithms**
   - Refining UI/UX layouts through **Responsive Web Development**
 
 - 💡 **What I love doing:**
